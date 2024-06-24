@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Enrico 👋
 
-<!--
-**enricoblanco/enricoblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou Engenheiro de Software com paixão por Inteligência Artificial, Desenvolvimento Web, etc. Aqui você encontrará alguns dos projetos em que estou trabalhando e que compartilho com a comunidade.
 
-Here are some ideas to get you started:
+## Minhas Ferramentas e Tecnologias
+![TypesScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+
+- [Ajuda RS](https://github.com/enricoblanco/ajuda-rs): Web App para auxílio aos afetados nas enchentes do Rio Grande do Sul.
+
+
+## Contato
+
+- [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [Seu Twitter](https://twitter.com/seu-usuario)
+
+---
