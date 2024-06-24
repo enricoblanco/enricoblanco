@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Engenheiro de Software com paixão por In
 
 ## Contato
 
-- [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Seu Twitter](https://twitter.com/seu-usuario)
+- [LinkedIn](https://www.linkedin.com/in/enrico-blanco-760517231/)
+- [X](https://twitter.com/seu-usuario)
 
 ---
