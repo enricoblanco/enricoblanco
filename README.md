@@ -6,7 +6,6 @@ I am a Software Engineer currently interning at Dell at Generative AI Academy an
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 ## Featured Projects
 
