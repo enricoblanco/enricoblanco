@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 
-I am a Software Engineer currently interning at Dell at Generative AI Academy and studying Computer Science at UNISINOS. Currently, I am diving deep into advanced areas of AI. I am always looking for new challenges and opportunities to apply my skills and knowledge.
+I am a Software Engineer currently interning at Dell and studying Computer Science at UNISINOS. Currently, I am diving deep into advanced areas of AI. I am always looking for new challenges and opportunities to apply my skills and knowledge.
 
 ## My Tools and Technologies
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
