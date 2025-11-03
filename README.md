@@ -8,7 +8,8 @@ I am a Software Engineer currently interning at Dell and studying Computer Scien
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
 ## Featured Projects
-
+- [Personal Blog](https://www.enricoblanco.dev/): My Personal Blog.
+- [Auth API](https://github.com/enricoblanco/auth-api-java): Microservice developed in Java used to authenticate users in my projects.
 - [Ajuda RS](https://github.com/enricoblanco/ajuda-rs): Web App to assist those affected by floods in Rio Grande do Sul.
 
 ## Contact
