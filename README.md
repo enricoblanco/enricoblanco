@@ -14,6 +14,8 @@ My main focus is **backend development** with **Java**, especially in designing 
 ## Featured Projects
 - [Personal Blog](https://www.enricoblanco.dev/): My Personal Blog.
 - [Auth API](https://github.com/enricoblanco/auth-api-java): Microservice developed in Java used to authenticate users in my projects.
+- [Grokking Algorithms](https://github.com/enricoblanco/grokking-algorithms): Implementations of algorithms and concepts from the 'Grokking Algorithms' book.
+- [Online Store Project](https://github.com/enricoblanco/online-store-project): A study project focused on end-to-end microservices infrastructure and architecture.
 - [Ajuda RS](https://github.com/enricoblanco/ajuda-rs): Web App to assist those affected by floods in Rio Grande do Sul.
 
 ## Contact
