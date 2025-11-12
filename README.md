@@ -4,10 +4,10 @@ I am a Software Engineer currently interning at Dell and studying Computer Scien
 
 ## My Tools and Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Featured Projects
 - [Personal Blog](https://www.enricoblanco.dev/): My Personal Blog.
@@ -17,4 +17,3 @@ I am a Software Engineer currently interning at Dell and studying Computer Scien
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/enrico-blanco-760517231/)
-
