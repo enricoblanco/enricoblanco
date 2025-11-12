@@ -3,6 +3,8 @@ Welcome to my GitHub profile!
 I am a Software Engineer currently interning at Dell and studying Computer Science at UNISINOS. Currently, I am diving deep into advanced areas of AI. I am always looking for new challenges and opportunities to apply my skills and knowledge.
 
 ## My Tools and Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
