@@ -1,6 +1,8 @@
 Welcome to my GitHub profile!
 
-I am a Software Engineer currently interning at Dell and studying Computer Science at UNISINOS. Currently, I am diving deep into advanced areas of AI. I am always looking for new challenges and opportunities to apply my skills and knowledge.
+I am a Software Engineer and a Computer Science student at UNISINOS, currently interning at Dell.
+
+My main focus is **backend development** with **Java**, especially in designing and building scalable **microservices**. I am also enthusiastic about full-stack **web development** and I am always looking for new challenges to apply my skills to real-world projects.
 
 ## My Tools and Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
